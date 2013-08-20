@@ -1,0 +1,17 @@
+Package: com.mich312.blackLockscreenLabels
+Name: blackLockscreenLabels
+Version: 1.0-1
+Description: Change the Lockscreen font color to black.
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: mich312
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+
